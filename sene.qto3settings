@@ -1,0 +1,369 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": [
+        {
+          "enabled": true,
+          "keyframes": [
+            {
+              "camera": {
+                "fx": 647542.3293407098,
+                "fy": 1168184.8938006442,
+                "fz": 0.0,
+                "x": 647542.3293374877,
+                "y": 1168184.8932006543,
+                "z": 599.9984962829038
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 1",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647542.3293407098,
+                "fy": 1168184.8938006442,
+                "fz": 0.0,
+                "x": 647561.2255545163,
+                "y": 1167598.648117978,
+                "z": 126.32152706890167
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 2",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647542.3293407098,
+                "fy": 1168184.8938006442,
+                "fz": 0.0,
+                "x": 648095.4717481278,
+                "y": 1168156.649431888,
+                "z": 230.72478907008883
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 3",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647542.3293407098,
+                "fy": 1168184.8938006442,
+                "fz": 0.0,
+                "x": 647455.4644501163,
+                "y": 1168685.3839412376,
+                "z": 319.3153699604912
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 4",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647544.0662191369,
+                "fy": 1168210.9515599087,
+                "fz": 8.04840372223991e-16,
+                "x": 647216.3191736374,
+                "y": 1168204.7905599696,
+                "z": 94.94950570629766
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 5",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647544.0662191369,
+                "fy": 1168210.9515599087,
+                "fz": 8.04840372223991e-16,
+                "x": 647482.1153730515,
+                "y": 1168031.8148999077,
+                "z": 41.88776114328107
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 6",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647571.7504888739,
+                "fy": 1168166.6697555517,
+                "fz": 4.101844670635808e-15,
+                "x": 647476.7670626944,
+                "y": 1168103.3421117016,
+                "z": 43.99728333324238
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 7",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647545.4019595935,
+                "fy": 1168190.1391471021,
+                "fz": 4.2871344915131124e-15,
+                "x": 647566.2014057469,
+                "y": 1168103.7586953267,
+                "z": 45.120720012331525
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 8",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647514.5434713847,
+                "fy": 1168236.461377585,
+                "fz": 4.481905287539857e-15,
+                "x": 647551.7546833111,
+                "y": 1168159.6442598687,
+                "z": 60.969775386496416
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 9",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647510.7096762579,
+                "fy": 1168258.7538464123,
+                "fz": 4.485822030123754e-15,
+                "x": 647545.7732747429,
+                "y": 1168183.295380158,
+                "z": 54.83286163804679
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 10",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647500.9679664678,
+                "fy": 1168297.570486414,
+                "fz": 4.520914354580232e-15,
+                "x": 647524.3633026198,
+                "y": 1168239.2143417173,
+                "z": 51.332599503906025
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 11",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647575.2080550458,
+                "fy": 1168177.6335610785,
+                "fz": 3.841440817398288e-15,
+                "x": 647529.8457677821,
+                "y": 1168223.117818503,
+                "z": 26.759973545331214
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 13",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647611.2671794582,
+                "fy": 1168150.4088669792,
+                "fz": 3.835970402547224e-15,
+                "x": 647565.9048921944,
+                "y": 1168195.8931244037,
+                "z": 26.759973545331146
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 14",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 647593.5836903425,
+                "fy": 1168111.9646763173,
+                "fz": 3.2272102952995946e-15,
+                "x": 647624.7275108709,
+                "y": 1168153.409571542,
+                "z": 22.914988401215943
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 16",
+              "type": 128
+            }
+          ],
+          "name": "Group",
+          "type": 64
+        }
+      ]
+    },
+    "enabled": true,
+    "layers": {
+      "Bakke_udklip_ab88261f_85b2_4ec8_8cf8_ab08882d2e39": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bakkebund2_3b052473_567b_474a_a2c3_8337ccb7e0bc": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bakkebund_poly_d0a82a13_335f_4c17_b690_e3b060642416": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_78340118_f259_4bc5_b3e0_7010c163a6b8": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_92f85a2a_82c8_4ede_9974_13b268bdd49b": {
+        "enabled": true,
+        "groups": []
+      },
+      "Terr_n_Hvidovre_e576aa84_a044_4cc6_8375_71027c40cd34": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:0710e68e": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false,
+    "startOnLoad": true
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "Bakkebund_poly_d0a82a13_335f_4c17_b690_e3b060642416",
+      "name": "Bakkebund poly",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Bakkebund2_3b052473_567b_474a_a2c3_8337ccb7e0bc",
+      "name": "Bakkebund2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "OUTPUT_92f85a2a_82c8_4ede_9974_13b268bdd49b",
+      "name": "Conturs",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Bakke_udklip_ab88261f_85b2_4ec8_8cf8_ab08882d2e39",
+      "name": "Bakke udklip",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Bakkebund_poly_d0a82a13_335f_4c17_b690_e3b060642416",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "ba7bc297",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "ba7bc297",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "OUTPUT_78340118_f259_4bc5_b3e0_7010c163a6b8",
+      "name": "Clipped (mask)",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Terr_n_Hvidovre_e576aa84_a044_4cc6_8375_71027c40cd34",
+      "name": "Terræn Hvidovre",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:0710e68e",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "animation.enabled": true,
+    "animation.startOnLoad": true,
+    "localMode": true
+  },
+  "OutputFilename": "C:/Users/User/OneDrive - Københavns Erhvervsakademi/2. semester_efterår2025/Semesterprojekt/Hvidovre/gis\\Animation_Hvidovre_2025_g3_m_koter.html",
+  "Template": "3DViewer(dat-gui).html",
+  "Title": "Animation_Hvidovre_2025_g3_m_koter",
+  "Version": 20800,
+  "WIDGETS": {
+    "Label": {
+      "Footer": "",
+      "Header": "Bjerget, Hvidovre 2650, Volumen: 171.809 m2"
+    },
+    "NorthArrow": {
+      "color": "0x666666",
+      "visible": true
+    }
+  }
+}
